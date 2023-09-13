@@ -1,4 +1,3 @@
-Bien sûr ! Voici un exemple de fichier README.md pour un projet de page de chargement utilisant HTML, CSS et la bibliothèque GSAP sur GitHub :
 
 ```markdown
 # Page de Chargement avec GSAP
