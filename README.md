@@ -4,7 +4,11 @@
 
 Une simple page de chargement animée créée avec HTML, CSS et la bibliothèque GSAP pour ajouter des animations fluides.
 
-![Aperçu de la page de chargement](screenshot.png)
+![Aperçu de la page de chargement]()
+
+
+https://github.com/yacou226/loaderWithGsap/assets/69944579/f50ec56c-47ec-45fb-a8d7-c4b453616fd8
+
 
 ## Table des matières
 
